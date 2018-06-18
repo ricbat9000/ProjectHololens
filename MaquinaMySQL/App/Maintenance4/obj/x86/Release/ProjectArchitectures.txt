@@ -1,0 +1,2 @@
+C:\Users\ricar\Desktop\Escola\Hololens\hololensM4\MaquinaMySQL\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\ricar\Desktop\Escola\Hololens\hololensM4\MaquinaMySQL\App\Maintenance4\Maintenance4.csproj;x86

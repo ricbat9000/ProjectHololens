@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Origami.unity
+    guid: 4030f93db19eb4c47aef1b135b8d8654
+  - enabled: 1
+    path: "Assets/M\xE1quina.unity"
+    guid: f49fa892b70af2f4ba585c7f143f190a
